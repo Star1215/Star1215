@@ -58,8 +58,8 @@ I'm a passionate and results-driven **Senior Blockchain Engineer** with a deep f
 
 I recommend pinning 3-4 of your best projects. The descriptions below are examples.
 
-[![Project 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=fibo-multi-swap-front&theme=radical)]([https://github.com/Star1215/fibo-multi-swap-front])
-[![Project 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=scopium-front&theme=radical)]([https://github.com/Star1215/scopium-front])
+[![Ling Presale on Tron](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=fibo-multi-swap-front&theme=radical)]([https://github.com/Star1215/lingsale-tron])
+[![Improrium Aggregator Dex on Solana](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=qubic-agg&theme=radical)]([https://github.com/Star1215/qubic-agg])
 
 *For a full list of my projects, contributions, and contract deployments, check out my **[Project Portfolio](./PROJECTS.md)**.*
 
