@@ -14,8 +14,8 @@
 
 I'm a passionate and results-driven **Senior Blockchain Engineer** with a deep focus on building secure, scalable, and innovative decentralized systems. I thrive on the challenges of the Web3 space, from architecting robust smart contract ecosystems to developing seamless dApp interfaces.
 
-*   🔭 **Currently Building:** [Mention a current project, e.g., "A novel DeFi protocol on Arbitrum" or "Exploring ZK-rollups"]
-*   🌱 **Currently Learning:** [Mention what you're learning, e.g., "Starknet & Cairo", "Move language", "Advanced DeFi mechanics"]
+*   🔭 **Currently Building:** "A novel DeFi protocol on Arbitrum" & "Exploring ZK-rollups"
+*   🌱 **Currently Learning:** "Starknet & Cairo", "Move language", "Advanced DeFi mechanics"
 *   👯 **Looking to Collaborate on:** Innovative DeFi, NFT, and DAO projects that push the boundaries of what's possible on-chain.
 *   💼 **Open to:** Senior/Lead Blockchain Engineer roles where I can architect and deliver cutting-edge Web3 solutions.
 *   💬 **Ask me about:** Solidity, Smart Contract Security, Gas Optimization, DeFi, NFTs, dApp Architecture.
@@ -58,8 +58,8 @@ I'm a passionate and results-driven **Senior Blockchain Engineer** with a deep f
 
 I recommend pinning 3-4 of your best projects. The descriptions below are examples.
 
-[![Project 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1_NAME&theme=radical)]([YOUR_REPO_LINK])
-[![Project 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2_NAME&theme=radical)]([YOUR_REPO_LINK])
+[![Project 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=fibo-multi-swap-front&theme=radical)]([https://github.com/Star1215/fibo-multi-swap-front])
+[![Project 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=Star1215&repo=scopium-front&theme=radical)]([https://github.com/Star1215/scopium-front])
 
 *For a full list of my projects, contributions, and contract deployments, check out my **[Project Portfolio](./PROJECTS.md)**.*
 
@@ -68,12 +68,12 @@ I recommend pinning 3-4 of your best projects. The descriptions below are exampl
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Star1215&show_icons=true&theme=radical&hide_border=true" />
+  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=Star1215&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Star1215&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -89,5 +89,5 @@ I'm always interested in connecting with fellow developers, founders, and innova
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Star1215&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
