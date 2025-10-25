@@ -19,7 +19,7 @@ I'm a passionate and results-driven **Senior Blockchain Engineer** with a deep f
 *   👯 **Looking to Collaborate on:** Innovative DeFi, NFT, and DAO projects that push the boundaries of what's possible on-chain.
 *   💼 **Open to:** Senior/Lead Blockchain Engineer roles where I can architect and deliver cutting-edge Web3 solutions.
 *   💬 **Ask me about:** Solidity, Smart Contract Security, Gas Optimization, DeFi, NFTs, dApp Architecture.
-*   ⚡ **Fun fact:** I own a rare [Mention a cool NFT you own, e.g., "CryptoPunk #5350"] and am an avid on-chain sleuth.
+*   ⚡ **Fun fact:** I own a rare "CryptoPunk #5350" and am an avid on-chain sleuth.
 
 ---
 
