@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm [Star]</h1>
 <h3 align="center">💎 Senior Blockchain | Web3 | Smart Contract Engineer</h3>
 
 <p align="center">
